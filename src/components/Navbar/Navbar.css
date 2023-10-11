@@ -1,0 +1,14 @@
+.navbar {
+  top: 0;
+  width: 100%;
+}
+.navbar .container {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  margin-top: 70px;
+}
+.navbar .container img {
+  height: 45px;
+  width: auto;
+}/*# sourceMappingURL=Navbar.css.map */
